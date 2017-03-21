@@ -1,0 +1,11 @@
+* .bashful
+
+  My .bash_profile and .bashrc.
+
+** Intro
+  
+  So far, I've only really got a handle on PS1 and some coloring + aliases.
+  I'll expand this over time. There are lots of [[https://natelandau.com/my-mac-osx-bash_profile/][excellent examples online]] 
+  [[https://gist.github.com/paulocheque/3667381][that I can draw from online.]]
+  
+
