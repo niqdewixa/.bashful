@@ -14,7 +14,7 @@
 # These unicode caracters tend to color in and do what I call 'emojifying'
 # ☢  , ♿, , ⚡ , ⚛
 
-export PS1="\n[\D{%Y-%m-%d %a %H:%M}]\[\033[95m\] $(parse_git_branch)\[\033[m\]\n[\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]]\n▶ "
+export PS1="--------------------------------------------------------------------------------\n[\D{%Y-%m-%d %a %H:%M}]\[\033[95m\] $(parse_git_branch)\[\033[m\]\n[\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]]\n▶ "
 
 # Display Git Repo Branch Function
 # https://mfitzp.io/article/add-git-branch-name-to-terminal-prompt-mac/
